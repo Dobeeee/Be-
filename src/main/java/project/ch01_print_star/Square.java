@@ -6,6 +6,7 @@ public class Square {
 
         /**
 
+         정사각형 별찍기가
          ****
          ****
          ****
